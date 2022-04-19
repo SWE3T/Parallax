@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: 'Akshar', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+
+*{
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+
+img {
+  width: 40%;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  font-weight: 400;
+  font-size: 10vw;
+	text-shadow: -0.04em 0.04em 0 #000,
+				  0.04em 0.04em 0 #000,
+				 0.04em -0.04em 0 #000,
+				-0.04em -0.04em 0 #000;
+}
+  p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 8vw;
+    color: #000;
+  }
